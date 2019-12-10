@@ -21,41 +21,17 @@ Causal
 |--|readme.md  
 |--|Experimnets.pdf  
 |--|dataset  
-|  |--|criteo  
-|  |  |--|test  
-|  |  |--|train  
-|  |  |--|D0.txt  
-|  |  |--|D1.txt  
-|  |--|file20  
-|  |  |--|test  
-|  |  |--|train  
-|  |  |--|D0.txt  
-|  |  |--|D1.txt  
-|  |--|gerber_huber_2014_data  
-|  |  |--|test  
-|  |  |--|train  
-|  |  |--|D0.txt  
-|  |  |--|D1.txt  
-|  |--|ihdp  
-|  |  |--|test  
-|  |  |--|train  
-|  |  |--|D0.txt  
-|  |  |--|D1.txt  
-|  |--|job  
-|  |  |--|test  
-|  |  |--|train  
-|  |  |--|D0.txt  
-|  |  |--|D1.txt  
-|  |--|MineThatData  
-|  |  |--|test  
-|  |  |--|train  
-|  |  |--|D0.txt  
-|  |  |--|D1.txt  
-|  |--|twin  
-|  |  |--|test  
-|  |  |--|train  
-|  |  |--|D0.txt  
-|  |  |--|D1.txt  
+|--|--|criteo  
+|--|--|--|test  
+|--|--|--|train  
+|--|--|--|D0.txt  
+|--|--|--|D1.txt  
+|--|--|file20   
+|--|--|gerber_huber_2014_data  
+|--|--|ihdp  
+|--|--|job  
+|--|--|MineThatData  
+|--|--|twin  
 |  
 |--|src  
 |--|--|weight_w0  
