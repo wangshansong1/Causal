@@ -2,7 +2,7 @@ This project was part of the work during a visit to the University of South Aust
 
 Project name: Causal
 env:
-	python==3.7
+	python==3.7\n
 	torch==1.2.0+cpu
 	matplotlib==2.2.2
 	bartpy.egg==info
