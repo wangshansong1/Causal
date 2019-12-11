@@ -1,7 +1,7 @@
 This project was part of the work during a visit to the University of South Australia.
 
-Project name: Causal  
-env:  
+#Project name: Causal  
+#env:  
 	python==3.7  
 	torch==1.2.0+cpu  
 	matplotlib==2.2.2  
@@ -10,10 +10,10 @@ env:
 	bartpy==0.0.2  
 	numpy==1.17.4  
 	scikit_learn==0.22  
-software:  
+#software:  
 	JetBrains PyCharm Community Edition 2019.2.3 x64  
 
-Directory Structure:  
+#Directory Structure:  
 	  
 Causal  
 |  
